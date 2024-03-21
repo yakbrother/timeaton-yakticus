@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 20;
+    background: hsl(31, 11%, 81%);
+    font-family: 'Lato', sand-serif;
+    http://localhost:4321/assets/tashidele.css
+    padding: hsl(349, 17%, 43%)
+}
+
+.code {
+    font-family: 'Spline Sans Mono', monospace;
+}
+
+h1{
+    font-family: "Slackside One", cursive, sans-serif;
+    color: hsl(11, 86%, 75%);
+    font-size: 200%
+}
+
+p {
+    font-size: clamp(1.321875rem, 1.11rem + 1.02vw, 1.875rem);
+}
+
+.decoration-top {
+    background: linear-gradient(to bottom #847d89 0 5%, 
+        #b2c6d6 5% 10%,
+        #fffcdc 15% 25%,
+        #847d89 25% 30%,
+        #DBD4B4 30% 35%,
+        #847d89 35% 40%,
+        #CC95C0 40% 55%,
+        #847d89 55%, 60%,
+        #d9a7c7 60% 80%,
+        #847d89 80% 10%);
+    display: block;
+    min-height: 200px;
+}
