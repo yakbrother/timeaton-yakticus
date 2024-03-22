@@ -1,8 +1,12 @@
 ---
-title: "Monoliths vs Side Projects"
-date: 2023-05-20T10:35:54+02:00
-draft: false
-description: Thoughts after working so long on a monolithic project
+title: Monoliths vs Side Projects
+date: 2023-05-20
+description: |
+  Thoughts after working so long on a monolithic project
+tags:
+  - backend
+  - architecture
+  - planning
 ---
 
 For a while, I worked for a company with a **massive** monolithic repository. Actually, by the time I left, it was two repositories; whatever remained of the original code, some of it still PHP4, from a decade ago; and a Laravel project with all the new refactoring and new features.

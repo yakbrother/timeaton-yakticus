@@ -1,8 +1,11 @@
 ---
-title: "Goodbye, Hospital"
-date: 2023-05-17T08:12:22+02:00
-draft: false
-description: Finally, I'm back home!!!
+title: Goodbye, Hospital
+date: 2023-05-17
+description: |
+  Finally, I'm back home!!!
+tags:
+  - life
+  - learning
 ---
 
 After hurting my leg, I’ve spent the last four months in the hospital with various complications after the initial surgery. It’s been a wild ride, with a lot of pain, boredom, and frustration.

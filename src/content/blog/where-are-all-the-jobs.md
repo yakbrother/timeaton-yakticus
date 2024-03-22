@@ -1,15 +1,18 @@
 ---
-title: "Job Searchin’ Blues"
-date: 2023-07-21T15:32:53+02:00
-draft: false
-description: Ain't got no money, ain't got no job...
+title: Job Searchin’ Blues
+date: 2023-07-21
+description: |
+  Ain't got no money, ain't got no job...
+tags:
+  - career
+  - life
 ---
 
 Why is it so hard to find a job? I’ve applied for well over a hundred positions (through LinkedIn, Larajobs, Hacker News, friends, random openings, or just cold-writing to a startup CEO). I’ve gone through a number of interviews, but had very little luck.
 
 I attribute this to several things: First, I have not applied or interviewed for a job in 17 years. I’m out of practice. It’s slowly coming back, but the IT interview process was quite a bit different almost two decades ago. Second, I worked with one stack for 16 years, following the ideas of a very opinionated boss. Many other companies don’t follow his philosophy, so they reject my initial solutions (even though I am quite willing to adapt.
 
-The most annoying manifestation of this - for me - was a person who asked me to rewrite a sample class so that it would still pass tests. Neither the code nore the tests were shown to me. I just had to make them work.  I did, in the way I had been learning, and all tests passed. The response was “I don’t like your style.” I found that profoundly unhelpful, because I’m willing to adapt to new styles - but without knowing a single thing about the company it’s difficult to guess what they like. I asked for a second try, perhaps after talking with an engineer, but received no answer.
+The most annoying manifestation of this - for me - was a person who asked me to rewrite a sample class so that it would still pass tests. Neither the code nore the tests were shown to me. I just had to make them work. I did, in the way I had been learning, and all tests passed. The response was “I don’t like your style.” I found that profoundly unhelpful, because I’m willing to adapt to new styles - but without knowing a single thing about the company it’s difficult to guess what they like. I asked for a second try, perhaps after talking with an engineer, but received no answer.
 
 Another particularly annoying response I received two weeks ago was “We like your CV, but we need someone who knows Laravel and can work for less money.” I replied that my CV was full of my Laravel expertise and I’m willing to accept a lower salary to start. The response was just “We need someone who wants a smaller salary.” Who knows that that person was smoking.
 

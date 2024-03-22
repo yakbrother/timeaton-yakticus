@@ -1,8 +1,12 @@
 ---
-title: "Learning Go (golang): First Update"
-date: 2023-04-29T11:37:17+02:00
-description: "A new path with video tutorials"
-draft: false
+title: Learning Go (golang): First Update
+date: 2023-04-29
+description: |
+    A new path with video tutorials
+tags:
+    - Go
+    - Code
+    - Learning
 ---
 
 One of the problems I discovered since [my last post](/posts/learning-go-from-a-hospital-bed/) is this: as a life-long programmer, it can be a little tough to learn a new language from scratch. After going through a few video tutorials on YouTube, Udemy, and ZTM, I leaned the basic types, syntax, and theory, but then I quickly tired of the projects. I actually wanted to argue about their structure, the same that I would do if I were planning a new feature at work. Some tutorials just annoyed me.
@@ -15,11 +19,11 @@ So what were my big advances in working on PHP? From what I remember, they were 
 
 I learned you could watch people code on Youtube and Switch. I started putting together a list of people to watch.
 
- - [@rwxrob](https://www.youtube.com/@rwxrob) has quite a few videos, some quite advanced, but some excellent for beginners who want to jump into coding. He starts a bit slow, but I like watching his mind work as he codes larger projects.
- 
- - [Golang Cafe](https://www.youtube.com/@GolangCafe) presents a series of problems and how they go about solving them; The Advent of Code is particularly good, but it looks like I could spend a lot of time here.
- 
- - [@justforfunc](https://www.youtube.com/channel/UC\_BzFbxG2za3bp5NRRRXJSw) has a number of interesting looking videos to browse also - they’re a bit shorter and more targeted.
+- [@rwxrob](https://www.youtube.com/@rwxrob) has quite a few videos, some quite advanced, but some excellent for beginners who want to jump into coding. He starts a bit slow, but I like watching his mind work as he codes larger projects.
+
+- [Golang Cafe](https://www.youtube.com/@GolangCafe) presents a series of problems and how they go about solving them; The Advent of Code is particularly good, but it looks like I could spend a lot of time here.
+
+- [@justforfunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw) has a number of interesting looking videos to browse also - they’re a bit shorter and more targeted.
 
 These are my start. I also found a [repository on test-driven design with go](https://github.com/quii/learn-go-with-tests), and looking over that is helping me with a few questions I had.
 

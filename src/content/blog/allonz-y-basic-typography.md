@@ -1,8 +1,12 @@
 ---
-title: "Allonz-Y: Basic CSS Typography"
-date: 2023-05-14T12:14:14+02:00
-draft: false
-description: "A few notes on starting my first framework."
+title: Allonz-Y - Basic CSS Typography
+date: 2023-05-14
+description: |
+  A few notes on starting my first UI framework.
+tags:
+  - CSS
+  - Front End
+  - UI
 ---
 
 Part of me appreciates Tailwind CSS. It’s easy to use, especially for layouts, but I think that “utility” approaches to CSS are a bit much sometimes. This is especially the case in rendering dynamic content - such as a blog or user-edited pages.

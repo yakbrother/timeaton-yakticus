@@ -1,8 +1,12 @@
 ---
-title: "Part-Time Job Found! Is it Time to Switch Careers?"
-date: 2023-10-10T23:11:13Z
-draft: false
-description: Maybe there's more to life than vim... Maybe
+title: 2023 So Far
+publishDate: 2023-01-10
+description: |
+  Maybe there's more to life than vim... Maybe
+tags:
+  - Life
+  - Teaching
+  - Dev
 ---
 
 After about 9 months of looking - I found a job! It wasn't what I thought I would be doing. I'm no longer a code monkey I'm a business teacher in Rennes, France.
