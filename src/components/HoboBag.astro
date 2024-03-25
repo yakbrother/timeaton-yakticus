@@ -1,7 +1,6 @@
 ---
-import Header from "../components/Header.astro";
-import Footer from "../components/Footer.astro";
-
+import BaseHead from "./BaseHead.astro";
+import Footer from "./Footer.astro";
 import "../styles/tashidele.css";
 
 interface Props {
@@ -36,7 +35,12 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
       name="description"
       content="Timothy is part-time employed as a teacher in SUP de Vinci, France ."
     />
-
-    <!--   TODO: set up OG for all blog pages.  -->
+    <BaseHead />
   </head>
+
+  <article>
+    <slot />
+  </article>
+
+  <Footer />
 </html>
