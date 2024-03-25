@@ -1,6 +1,6 @@
 ---
-import BaseHead from "./BaseHead.astro";
-import Footer from "./Footer.astro";
+import MainCeiling from "./MainCeiling.astro";
+import MainFloor from "./MainFloor.astro";
 import "../styles/tashidele.css";
 
 interface Props {
@@ -9,7 +9,7 @@ interface Props {
   image?: string;
 }
 
-const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
+const { title, description, image = "/cartoon.png" } = Astro.props;
 ---
 
 <!doctype html>
@@ -35,12 +35,12 @@ const { title, description, image = "/blog-placeholder-1.jpg" } = Astro.props;
       name="description"
       content="Timothy is part-time employed as a teacher in SUP de Vinci, France ."
     />
-    <BaseHead />
+    <MainCeiling />
   </head>
 
   <article>
     <slot />
   </article>
 
-  <Footer />
+  <MainFloor />
 </html>
