@@ -1,0 +1,39 @@
+@import url("reset.css");
+
+html, body {
+    
+    color: hsl(31, 11%, 81%);
+    font-family: 'Lato', sand-serif;
+    background-color: #847d89;
+}
+
+.code {
+    font-family: 'Spline Sans Mono', monospace;
+}
+
+p {
+    font-size: clamp(1.321875rem, 1.11rem + 1.02vw, 1.875rem);
+}
+
+header h1 {
+        font-family: "Slackside One", cursive, sans-serif;
+        color: hsl(11, 86%, 75%);
+        font-size: 400%;
+        text-align: center;
+        
+    }
+
+    .top-stripes {
+        background-image: linear-gradient (
+        to bottom
+        #78CABA,
+        #b2c6d6 10%,
+        #DBD4B4 20%,
+        #CC95C0 30%,
+        #d9a7c7 60%,
+        );
+    
+        background-size: 100% 200px;
+        background-position: 50% 100%;
+        background-repeat: no-repeat;
+    }

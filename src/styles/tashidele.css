@@ -1,12 +1,11 @@
 @import url("reset.css");
 
-body {
+body,html {
     margin: 0;
     padding: 20;
     background: hsl(31, 11%, 81%);
     font-family: 'Lato', sand-serif;
-    http://localhost:4321/assets/tashidele.css
-    padding: hsl(349, 17%, 43%)
+    color: hsl(349, 17%, 43%)
 }
 
 .code {
